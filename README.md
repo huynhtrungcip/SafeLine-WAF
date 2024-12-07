@@ -96,7 +96,7 @@ Edit your system's `hosts` file to redirect domain traffic:
 1. Open SafeLine UI and navigate to **Web Services**.
 2. Click **Add** and provide the following details:
 For example, the IP address of DVWA 192.168.100.101
-   - **Domain**: `192.168.100.131`
+   - **Domain**: `192.168.100.101`
    - **Port**: `80`
    - **SSL Cert**: `None` (DVWA doesn't use HTTPS).
    - **Upstream**: `http://192.168.100.101:80`
